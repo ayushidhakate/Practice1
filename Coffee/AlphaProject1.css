@@ -1,7 +1,9 @@
 body{
     margin: 0px;
 }
-
+html{
+    scroll-behavior: smooth;
+}
 .header{
     position: sticky;
     top: 0;
